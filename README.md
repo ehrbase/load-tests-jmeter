@@ -1,3 +1,4 @@
+# Deprecated (included in https://github.com/ehrbase/performance-test)
 # Using the JMeter Script
 
 1. Download and extract JMeter
